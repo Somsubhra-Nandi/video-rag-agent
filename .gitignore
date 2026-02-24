@@ -1,0 +1,21 @@
+# 1. Secrets
+.env
+
+# 2. Large Media Files
+videos/
+audios/
+
+# 3. Vector Database
+chroma_db/
+
+# 4. Generated Data
+jsons/
+jsons_refined/
+
+# 5. Standard Python Caches & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
